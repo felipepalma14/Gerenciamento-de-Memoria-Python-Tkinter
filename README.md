@@ -10,3 +10,6 @@ Spider
 Tkinter
 
 Boas leituras sobre Gerenciamento de Memoria
+
+
+Arquivo final Aplicacao.py
